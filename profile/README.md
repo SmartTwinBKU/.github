@@ -61,7 +61,7 @@ We aim to contribute to the research community by publishing and sharing our wor
 ---
 
 ## 🔐 Licensing  
-*_🔐 Giấy phép sử dụng_
+*_🔐 Giấy phép sử dụng_*
 
 *️⃣ All materials, code, designs, and documentation in this repository are protected under full copyright by the organization. Unauthorized reproduction, distribution, or use in any form is strictly prohibited without explicit written permission.  
 *_*️⃣ Tất cả tài liệu, mã nguồn, thiết kế và tài liệu trong kho lưu trữ này đều thuộc bản quyền đầy đủ của tổ chức. Mọi hành vi sao chép, phân phối hoặc sử dụng dưới bất kỳ hình thức nào mà không có sự cho phép bằng văn bản đều bị nghiêm cấm._*
@@ -82,7 +82,7 @@ We welcome partnerships with:
   *_Cơ quan chính phủ và quy hoạch đô thị_*
 
 > Want to collaborate or get involved?  
-> 📧 **Contact us:** support@architecture.quarasal.com 
+> 📧 **Contact us:** support@architecture.quarasal.com  
 > *_Bạn muốn hợp tác hoặc tham gia?  
 📧 **Liên hệ:** support@architecture.quarasal.com_*
 
@@ -91,18 +91,10 @@ We welcome partnerships with:
 ## ⭐ GitHub Highlights  
 *_⭐ Điểm nổi bật trên GitHub_*
 
-- 📁 [Starter Kits](https://smarttwinbku.quarasal.com/docs/gioi-thieu)
- 
-  *_📁 Bộ khởi đầu dự án_*
-- 📡 [IoT Sensor Modules](https://smarttwinbku.quarasal.com/docs/gioi-thieu)
-
-  *_📡 Mô-đun cảm biến IoT_*
-- 🔧 [Digital Twin Core](https://smarttwinbku.quarasal.com/docs/gioi-thieu)
-
-  *_🔧 Hệ lõi Digital Twin_*
-- 📘 [Research Docs](https://smarttwinbku.quarasal.com/docs/gioi-thieu)
-
-  *_📘 Tài liệu nghiên cứu_*
+- 📁 [Starter Kits](https://smarttwinbku.quarasal.com/docs/gioi-thieu)  *_📁 Bộ khởi đầu dự án_*  
+- 📡 [IoT Sensor Modules](https://smarttwinbku.quarasal.com/docs/gioi-thieu)  *_📡 Mô-đun cảm biến IoT_*  
+- 🔧 [Digital Twin Core](https://smarttwinbku.quarasal.com/docs/gioi-thieu)  *_🔧 Hệ lõi Digital Twin_*  
+- 📘 [Research Docs](https://smarttwinbku.quarasal.com/docs/gioi-thieu)  *_📘 Tài liệu nghiên cứu_*
 
 ---
 <p align="center">
