@@ -15,11 +15,11 @@
 ## 🔬 Ongoing Research Projects  
 *_🔬 Các dự án nghiên cứu đang thực hiện_*
 
-| Project | Description |
+| Project *(Dự án)* | Description *(Mô tả)* |
 |--------|-------------|
-| 🏠 **Digital Twin for Smart Buildings** | Develops a real-time monitoring framework integrating BIM (Revit), IoT sensors (ESP32, DHT22...), and visualization tools (Unity, Autodesk Forge).<br/>_🏠 **Digital Twin cho công trình thông minh** | Phát triển khung giám sát thời gian thực tích hợp BIM (Revit), cảm biến IoT (ESP32, DHT22...) và công cụ hiển thị (Unity, Autodesk Forge)._ |
-| 📡 **IoT-based Energy Monitoring** | Real-time collection and analysis of environmental & energy data to optimize performance and sustainability.<br/>_📡 **Giám sát năng lượng dựa trên IoT** | Thu thập và phân tích dữ liệu môi trường & năng lượng theo thời gian thực để tối ưu hiệu suất và tính bền vững._ |
-| 🧠 **AI-driven Smart Home Assistant** | Builds a personalized AI agent that adapts to user behavior using contextual data and machine learning.<br/>_🧠 **Trợ lý nhà thông minh điều khiển bởi AI** | Xây dựng AI cá nhân hóa thích nghi với hành vi người dùng dựa trên dữ liệu ngữ cảnh và học máy._ |
+| 🏠 **Digital Twin for Smart Buildings**<br/>*_🏠 **Digital Twin cho công trình thông minh**_* | Develops a real-time monitoring framework integrating BIM (Revit), IoT sensors (ESP32, DHT22...), and visualization tools (Unity, Autodesk Forge).<br/> *_Phát triển khung giám sát thời gian thực tích hợp BIM (Revit), cảm biến IoT (ESP32, DHT22...) và công cụ hiển thị (Unity, Autodesk Forge)._* |
+| 📡 **IoT-based Energy Monitoring**<br/>*_📡 **Giám sát năng lượng dựa trên IoT**_* | Real-time collection and analysis of environmental & energy data to optimize performance and sustainability.<br/> *_Thu thập và phân tích dữ liệu môi trường & năng lượng theo thời gian thực để tối ưu hiệu suất và tính bền vững._* |
+| 🧠 **AI-driven Smart Home Assistant**<br/>*_🧠 **Trợ lý nhà thông minh điều khiển bởi AI**_* | Builds a personalized AI agent that adapts to user behavior using contextual data and machine learning.<br/> *_Xây dựng AI cá nhân hóa thích nghi với hành vi người dùng dựa trên dữ liệu ngữ cảnh và học máy._* |
 
 ---
 
@@ -27,34 +27,36 @@
 *_🧩 Các công nghệ chúng tôi sử dụng_*
 
 - 🧱 **BIM / Revit / Dynamo**  
-  *_🧱 BIM / Revit / Dynamo_*
 - 🌐 **IoT (ESP32, MQTT, Firebase)**  
-  *_🌐 IoT (ESP32, MQTT, Firebase)_*
 - 📊 **Unity, Autodesk Forge, Tandem**  
-  *_📊 Unity, Autodesk Forge, Tandem_*
 - ⚙️ **Node.js, Python, Next.js**  
-  *_⚙️ Node.js, Python, Next.js_*
 - 🧠 **AI/ML with OpenAI, HuggingFace**  
-  *_🧠 AI/ML với OpenAI, HuggingFace_*
 - 📄 **Markdown, LaTeX, GitHub Actions**  
-  *_📄 Markdown, LaTeX, GitHub Actions_*
 
 ---
 
 ## 🌏 Publications & Contributions  
 *_🌏 Công bố khoa học & đóng góp cộng đồng_*
 
-We actively participate in research communities and aim to publish in journals indexed by **SCOPUS**, **Springer**, and **IEEE**.  
-*_Chúng tôi tích cực tham gia cộng đồng nghiên cứu và hướng đến các tạp chí quốc tế như **SCOPUS**, **Springer**, và **IEEE**._*
+We aim to contribute to the research community by publishing and sharing our works through platforms such as 
+<a href="https://www.tapchikientruc.com.vn/" target="_blank"><strong>Architectural Journal</strong></a>, 
+<a href="https://www.scopus.com" target="_blank"><strong>SCOPUS</strong></a>, 
+<a href="https://www.springer.com" target="_blank"><strong>Springer</strong></a>, and 
+<a href="https://www.ieee.org" target="_blank"><strong>IEEE</strong></a>.  
+*Chúng tôi hướng đến việc đóng góp cho cộng đồng nghiên cứu thông qua công bố và chia sẻ sản phẩm tại các nền tảng như 
+<a href="https://www.tapchikientruc.com.vn/" target="_blank"><strong>Tạp chí kiến trúc</strong></a>, 
+<a href="https://www.scopus.com" target="_blank"><strong>SCOPUS</strong></a>, 
+<a href="https://www.springer.com" target="_blank"><strong>Springer</strong></a>, và 
+<a href="https://www.ieee.org" target="_blank"><strong>IEEE</strong></a>.*
 
-✅ Collaborative papers  
-✅ Open datasets  
-✅ Prototype repositories  
-✅ Technical documentation  
-*_✅ Bài viết hợp tác  
-✅ Dữ liệu mở  
-✅ Kho mô phỏng  
-✅ Tài liệu kỹ thuật_*
+> _Note: We are currently in the process of preparing and submitting papers._  
+> _Ghi chú: Hiện nhóm đang trong quá trình chuẩn bị và nộp bài._
+
+✅ Collaborative papers  *_✅ Bài viết hợp tác_*  
+✅ Open datasets  *_✅ Dữ liệu mở_*  
+✅ Prototype repositories  *_✅ Kho mô phỏng_*  
+✅ Technical documentation  *_✅ Tài liệu kỹ thuật_*
+
 
 ---
 
@@ -62,7 +64,7 @@ We actively participate in research communities and aim to publish in journals i
 *_🔐 Giấy phép sử dụng_
 
 *️⃣ All materials, code, designs, and documentation in this repository are protected under full copyright by the organization. Unauthorized reproduction, distribution, or use in any form is strictly prohibited without explicit written permission.  
-*_*️⃣ Tất cả tài liệu, mã nguồn, thiết kế và tài liệu trong kho lưu trữ này đều thuộc bản quyền đầy đủ của tổ chức. Mọi hành vi sao chép, phân phối hoặc sử dụng dưới bất kỳ hình thức nào mà không có sự cho phép bằng văn bản đều bị nghiêm cấm._
+*_*️⃣ Tất cả tài liệu, mã nguồn, thiết kế và tài liệu trong kho lưu trữ này đều thuộc bản quyền đầy đủ của tổ chức. Mọi hành vi sao chép, phân phối hoặc sử dụng dưới bất kỳ hình thức nào mà không có sự cho phép bằng văn bản đều bị nghiêm cấm._*
 
 ---
 
