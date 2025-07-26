@@ -80,20 +80,20 @@ We welcome partnerships with:
   *_Cơ quan chính phủ và quy hoạch đô thị_*
 
 > Want to collaborate or get involved?  
-> 📧 **Contact us:** smarttwin.vietnam@gmail.com  
+> 📧 **Contact us:** support@architecture.quarasal.com 
 > *_Bạn muốn hợp tác hoặc tham gia?  
-📧 **Liên hệ:** smarttwin.vietnam@gmail.com_*
+📧 **Liên hệ:** support@architecture.quarasal.com_*
 
 ---
 
 ## ⭐ GitHub Highlights  
 *_⭐ Điểm nổi bật trên GitHub_*
 
-- 📁 [Starter Kits](https://github.com/SmartTwinBKU/starter-kit)  
+- 📁 [Starter Kits](https://smarttwinbku.quarasal.com/docs/gioi-thieu)
   *_📁 Starter Kits - Bộ khởi đầu dự án_*
-- 📡 [IoT Sensor Modules](https://github.com/SmartTwinBKU/iot-sensor)  
+- 📡 [IoT Sensor Modules](https://smarttwinbku.quarasal.com/docs/gioi-thieu)
   *_📡 Mô-đun cảm biến IoT_*
-- 🔧 [Digital Twin Core](https://github.com/SmartTwinBKU/digital-twin-core)  
+- 🔧 [Digital Twin Core](https://smarttwinbku.quarasal.com/docs/gioi-thieu)
   *_🔧 Hệ lõi Digital Twin_*
 - 📘 [Research Docs](https://smarttwinbku.quarasal.com/docs/gioi-thieu)  
   *_📘 Tài liệu nghiên cứu_*
