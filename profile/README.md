@@ -90,12 +90,16 @@ We welcome partnerships with:
 *_⭐ Điểm nổi bật trên GitHub_*
 
 - 📁 [Starter Kits](https://smarttwinbku.quarasal.com/docs/gioi-thieu)
-  *_📁 Starter Kits - Bộ khởi đầu dự án_*
+ 
+  *_📁 Bộ khởi đầu dự án_*
 - 📡 [IoT Sensor Modules](https://smarttwinbku.quarasal.com/docs/gioi-thieu)
+
   *_📡 Mô-đun cảm biến IoT_*
 - 🔧 [Digital Twin Core](https://smarttwinbku.quarasal.com/docs/gioi-thieu)
+
   *_🔧 Hệ lõi Digital Twin_*
-- 📘 [Research Docs](https://smarttwinbku.quarasal.com/docs/gioi-thieu)  
+- 📘 [Research Docs](https://smarttwinbku.quarasal.com/docs/gioi-thieu)
+
   *_📘 Tài liệu nghiên cứu_*
 
 ---
