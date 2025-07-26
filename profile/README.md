@@ -1,12 +1,3 @@
-<p align="center">
-  <img src="https://ik.imagekit.io/ArchitectureQuarasal/Logo.png?updatedAt=1753385445024" style="max-width:100%; width:100%;" alt="Logo" />
-</p>
-
-<h2 align="center">Smart Twin Team</h2>
-<p align="center"><em>"Digital Twin for Smart Buildings, Exceptional Efficiency"</em></p>
-
----
-
 # 🇻🇳 SmartTwin Vietnam  
 ### Research & Innovation in Digital Twins, IoT & Smart Architecture  
 ### *Nghiên cứu & đổi mới trong Digital Twin, IoT và Kiến trúc thông minh*
@@ -108,7 +99,14 @@ We welcome partnerships with:
   *_📘 Tài liệu nghiên cứu_*
 
 ---
+<p align="center">
+  <img src="https://ik.imagekit.io/ArchitectureQuarasal/Logo.png?updatedAt=1753385445024" style="max-width:100%; width:100%;" alt="Logo" />
+</p>
 
+<h2 align="center">Smart Twin Team</h2>
+<p align="center"><em>"Digital Twin for Smart Buildings, Exceptional Efficiency"</em></p>
+
+---
 <div align="center">
   Made with ❤️ in Vietnam by SmartTwin Team  
   <br/>
