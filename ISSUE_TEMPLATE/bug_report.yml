@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: ❓ Hỏi đáp & hỗ trợ / Questions & Help
+    url: https://github.com/SmartTwinBKU/discussions
+    about: Nếu bạn có câu hỏi không phải là bug hay yêu cầu tính năng, hãy đăng tại đây / Ask questions or get help via GitHub Discussions.
