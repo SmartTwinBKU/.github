@@ -73,3 +73,24 @@ This Code of Conduct is adapted from the [Contributor Covenant][homepage], versi
 
 [homepage]: https://www.contributor-covenant.org
 
+---
+<p align="center">
+  <img src="https://ik.imagekit.io/ArchitectureQuarasal/Logo.png?updatedAt=1753385445024" style="max-width:100%; width:100%;" alt="Logo" />
+</p>
+
+<h2 align="center">Smart Twin Team</h2>
+<p align="center"><em>"Digital Twin for Smart Buildings, Exceptional Efficiency"</em></p>
+
+---
+<div align="center">
+  Made with ❤️ in Vietnam by SmartTwin Team  
+  <br/>
+  <em>Được thực hiện với ❤️ tại Việt Nam bởi đội ngũ SmartTwin</em>
+  <br/> <br/>
+  © 2025 SmartTwinBKU. All rights reserved. 
+   <br/>
+  <em>© 2025 SmartTwinBKU. Mọi bản quyền thuộc về chúng tôi.</em>
+
+</div>
+
+
