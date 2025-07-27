@@ -1,0 +1,58 @@
+name: 🐞 Báo cáo lỗi / Bug report
+description: Gửi thông tin chi tiết về lỗi bạn gặp phải / Report a problem or unexpected behavior.
+title: "[BUG] "
+labels: [bug]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ❗ **Vui lòng mô tả lỗi một cách chi tiết.** / Please describe the issue clearly.
+
+  - type: input
+    id: summary
+    attributes:
+      label: 📋 Mô tả ngắn gọn / Summary
+      description: Lỗi là gì? Nó xảy ra khi nào? / What happened, and when did it happen?
+      placeholder: VD: Không thể đăng nhập sau khi cập nhật hệ thống
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: ▶️ Các bước để tái hiện lỗi / Steps to reproduce
+      description: Danh sách các bước cụ thể để nhóm phát triển có thể tái hiện lỗi.
+      placeholder: |
+        1. Truy cập vào...
+        2. Nhấn nút...
+        3. Quan sát lỗi...
+
+  - type: input
+    id: environment
+    attributes:
+      label: 💻 Môi trường / Environment
+      description: Thông tin về hệ thống của bạn (browser, OS, thiết bị...)
+      placeholder: VD: Chrome 124 / Windows 11
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: ✅ Kỳ vọng / Expected behavior
+      description: Bạn mong chờ điều gì sẽ xảy ra?
+      placeholder: VD: Hệ thống sẽ hiển thị trang dashboard sau khi đăng nhập
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: 🪵 Nhật ký lỗi (log) / Error logs (if any)
+      description: Dán các log hoặc thông báo lỗi nếu có
+      render: shell
+
+  - type: dropdown
+    id: severity
+    attributes:
+      label: 🚨 Mức độ ảnh hưởng / Severity
+      options:
+        - 🔴 Nghiêm trọng / Critical
+        - 🟠 Trung bình / Moderate
+        - 🟢 Nhẹ / Minor
