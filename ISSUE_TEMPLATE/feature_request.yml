@@ -1,0 +1,39 @@
+name: 🌟 Yêu cầu tính năng / Feature request
+description: Đề xuất tính năng mới hoặc cải tiến / Suggest a new feature or enhancement.
+title: "[FEATURE] "
+labels: [enhancement]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        💡 **Chúng tôi luôn hoan nghênh các ý tưởng mới!** / We welcome suggestions for new features.
+
+  - type: input
+    id: title
+    attributes:
+      label: 📝 Tiêu đề tính năng / Feature title
+      placeholder: VD: Thêm chế độ Dark mode
+
+  - type: textarea
+    id: motivation
+    attributes:
+      label: 🤔 Lý do / Why is this needed?
+      description: Tại sao bạn nghĩ tính năng này là cần thiết?
+      placeholder: VD: Người dùng sẽ có trải nghiệm tốt hơn vào ban đêm...
+
+  - type: textarea
+    id: description
+    attributes:
+      label: 🔍 Mô tả chi tiết / Feature description
+      placeholder: VD: Một nút chuyển giữa Light và Dark mode ở góc trên bên phải...
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: 🏷️ Mức độ ưu tiên / Priority
+      options:
+        - 🔺 Cao / High
+        - 🔸 Trung bình / Medium
+        - 🔹 Thấp / Low
