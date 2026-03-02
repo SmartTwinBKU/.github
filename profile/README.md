@@ -1,4 +1,6 @@
-# 🇻🇳 SmartTwin Vietnam  
+
+<img width="876" height="224" alt="SmartTwin Logo" src="https://github.com/user-attachments/assets/7b4800f0-2a1d-4da7-a4ed-03ede2827cdd" />
+
 ### Research & Innovation in Digital Twins, IoT & Smart Architecture  
 ### *Nghiên cứu & đổi mới trong Digital Twin, IoT và Kiến trúc thông minh*
 
